@@ -3,56 +3,12 @@
     <title>Fiulo Comics</title>
     <link href="https://comics.fiulo.com/feed.xml" rel="self" />
     <link href="https://comics.fiulo.com" />
-    <updated>2023-09-30T20:50:46+01:00</updated>
+    <updated>2023-12-25T20:28:05+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
     <id>https://comics.fiulo.com</id>
 
-    <entry>
-        <title>Sample Page</title>
-        <author>
-            <name>Fiulo</name>
-        </author>
-        <link href="https://comics.fiulo.com/sample-page.html"/>
-        <id>https://comics.fiulo.com/sample-page.html</id>
-
-        <updated>2023-09-30T20:50:46+01:00</updated>
-            <summary>
-                <![CDATA[
-                    This is an example page. It's different from a blog post because it will stay in one place and will show up in your site&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:quote --></p>
-<blockquote class="wp-block-quote">
-<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>
-</blockquote>
-<p>
-<!-- /wp:quote --></p>
-<p><!-- wp:paragraph --></p>
-<p>...or something like this:</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:quote --></p>
-<blockquote class="wp-block-quote">
-<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
-</blockquote>
-<p>
-<!-- /wp:quote --></p>
-<p><!-- wp:paragraph --></p>
-<p>As a new WordPress user, you should go to <a href="https://comics.fiulo.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<p>
-<!-- /wp:paragraph --></p>
-
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>The Bunny Brigade - Issue 1</title>
         <author>
@@ -62,15 +18,12 @@
         <id>https://comics.fiulo.com/the-bunny-brigade-issue-1.html</id>
         <media:content url="https://comics.fiulo.com/media/posts/2/Page_1.jpg" medium="image" />
 
-        <updated>2023-09-30T20:50:46+01:00</updated>
+        <updated>2023-12-25T20:25:55+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://comics.fiulo.com/media/posts/2/Page_1.jpg" class="type:primaryImage" alt="" /></p>
-                <div style="clear: both"><a href="https://comics.fiulo.com/media/posts/2/Page_1.jpg" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" data-original-height="3508" data-original-width="2479" src="https://comics.fiulo.com/media/posts/2/Page_1.jpg"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://comics.fiulo.com/media/posts/2/responsive/Page_1-xs.jpg 300w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-md.jpg 768w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-lg.jpg 1024w"></a></div>
-
-
-
+                <div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/2/Page_1.jpg" style="padding: 1em 0; text-align: center;"><figure class="post__image"><img  src="https://comics.fiulo.com/media/posts/2/Page_1.jpg" alt="" width="2479" height="3508" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/2/responsive/Page_1-xs.jpg 320w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-md.jpg 768w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xxl.jpg 1600w"></figure><img loading="lazy" src="https://comics.fiulo.com/media/posts/2/Page_1.jpg" alt="" border="0" data-original-height="3508" data-original-width="2479" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/2/responsive/Page_1-xs.jpg 320w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-md.jpg 768w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xxl.jpg 1600w"></a></div>
             ]]>
         </content>
     </entry>
@@ -83,7 +36,7 @@
         <id>https://comics.fiulo.com/the-star-wanderers-issue-1.html</id>
         <media:content url="https://comics.fiulo.com/media/posts/3/Page_1-1.jpg" medium="image" />
 
-        <updated>2023-09-30T20:50:46+01:00</updated>
+        <updated>2023-12-25T20:28:05+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://comics.fiulo.com/media/posts/3/Page_1-1.jpg" alt="" />
@@ -94,14 +47,14 @@
             <![CDATA[
                     <p><img src="https://comics.fiulo.com/media/posts/3/Page_1-1.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Page 1:</p>
-<div style="clear: both"><a href="https://comics.fiulo.com/media/posts/3/Page_1-1.jpg" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" data-original-height="3508" data-original-width="2479" src="https://comics.fiulo.com/media/posts/3/Page_1-1.jpg"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-xs.jpg 300w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-lg.jpg 1024w"></a></div>
+<figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/3/Page_1.jpg" alt="" width="1131" height="1600" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_1-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-xxl.jpg 1600w"></figure>
+<div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/3/Page_1-1.jpg" style="padding: 1em 0; text-align: center;"><img loading="lazy" src="https://comics.fiulo.com/media/posts/3/Page_1-1.jpg" alt="" border="0" data-original-height="3508" data-original-width="2479" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-xxl.jpg 1600w"></a></div>
 <p>Page 2:</p>
-<div style="clear: both"><a href="https://comics.fiulo.com/media/posts/3/Page_2.jpg" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" data-original-height="3508" data-original-width="2479" src="https://comics.fiulo.com/media/posts/3/Page_2.jpg"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_2-xs.jpg 300w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-lg.jpg 1024w"></a></div>
+<p> </p>
+<div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/3/Page_2.jpg" style="padding: 1em 0; text-align: center;"><img src="https://comics.fiulo.com/media/posts/3/Page_2.jpg" alt="" border="0" data-original-height="3508" data-original-width="2479" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_2-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-xxl.jpg 1600w"><figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/3/Page_2.jpg" alt="" width="1131" height="1600" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_2-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-xxl.jpg 1600w"></figure></a></div>
 <p>Page 3:</p>
-<div style="clear: both"><a href="https://comics.fiulo.com/media/posts/3/Page_3.jpg" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" data-original-height="3508" data-original-width="2479" src="https://comics.fiulo.com/media/posts/3/Page_3.jpg"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_3-xs.jpg 300w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-lg.jpg 1024w"></a></div>
-
-
-
+<figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/3/Page_3.jpg" alt="" width="1131" height="1600" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_3-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xxl.jpg 1600w"></figure>
+<div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/3/Page_3.jpg" style="padding: 1em 0; text-align: center;"><img loading="lazy" src="https://comics.fiulo.com/media/posts/3/Page_3.jpg" alt="" border="0" data-original-height="3508" data-original-width="2479" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_3-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xxl.jpg 1600w"></a></div>
             ]]>
         </content>
     </entry>
@@ -114,31 +67,24 @@
         <id>https://comics.fiulo.com/lunar-adventurer-a-retrowave-journey.html</id>
         <media:content url="https://comics.fiulo.com/media/posts/4/Lunar-20Adventurer-20-20A-20Retrowave-20Journey.png" medium="image" />
 
-        <updated>2023-09-30T20:50:46+01:00</updated>
+        <updated>2023-12-25T20:25:29+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://comics.fiulo.com/media/posts/4/Lunar-20Adventurer-20-20A-20Retrowave-20Journey.png" alt="" />
-                    Here's something I created using art from Midjourney. Unfortunately I couldn't get Midjourney to create my vision quite as I'd hoped but I think this&hellip;
+                    Here's something I created using art from Midjourney. Unfortunately I couldn't get Midjourney to create my vision quite as I'd hoped but I think this comic turned out all right Follow the story of a determined man with a bike and jetpack, as he takes&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://comics.fiulo.com/media/posts/4/Lunar-20Adventurer-20-20A-20Retrowave-20Journey.png" class="type:primaryImage" alt="" /></p>
-                <div style="clear: both"><a href="https://comics.fiulo.com/media/posts/4/Lunar-20Adventurer-20-20A-20Retrowave-20Journey.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" data-original-height="3508" data-original-width="2480" src="https://comics.fiulo.com/media/posts/4/Lunar-20Adventurer-20-20A-20Retrowave-20Journey.png"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-xs.png 300w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-sm.png 480w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-md.png 768w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-lg.png 1024w"></a></div>
-</p>
-<p> Here's something I created using art from Midjourney. Unfortunately I couldn't get Midjourney to create my vision quite as I'd hoped but I think this comic turned out all right </p>
-<p> Follow the story of a determined man with a bike and jetpack, as he takes off and soars through the air in a retro-futuristic universe. Upon reading this you'll be transported to a world full of adventure and wonder. Watch as the man explores the craters and mountains of the moon and marvels at the breathtaking view of the stars. This comic is sure to leave you inspired and eager for your own lunar adventures. Get ready to blast off on an unforgettable journey in "Lunar Adventurer: A Retrowave Journey". </p>
-<p>
-
-<b> Credits: </b></p>
+                <div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/4/Lunar-20Adventurer-20-20A-20Retrowave-20Journey.png" style="padding: 1em 0; text-align: center;"><img loading="lazy" src="https://comics.fiulo.com/media/posts/4/Lunar-20Adventurer-20-20A-20Retrowave-20Journey.png" alt="" border="0" data-original-height="3508" data-original-width="2480" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-xs.png 320w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-sm.png 480w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-md.png 768w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-xl.png 1200w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-xxl.png 1600w"></a></div>
+<p>Here's something I created using art from Midjourney. Unfortunately I couldn't get Midjourney to create my vision quite as I'd hoped but I think this comic turned out all right</p>
+<figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/4/Lunar-Adventurer-A-Retrowave-Journey.jpg" alt="" width="2480" height="3508" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/4/responsive/Lunar-Adventurer-A-Retrowave-Journey-xs.jpg 320w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-Adventurer-A-Retrowave-Journey-sm.jpg 480w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-Adventurer-A-Retrowave-Journey-md.jpg 768w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-Adventurer-A-Retrowave-Journey-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-Adventurer-A-Retrowave-Journey-xxl.jpg 1600w"></figure>
+<p>Follow the story of a determined man with a bike and jetpack, as he takes off and soars through the air in a retro-futuristic universe. Upon reading this you'll be transported to a world full of adventure and wonder. Watch as the man explores the craters and mountains of the moon and marvels at the breathtaking view of the stars. This comic is sure to leave you inspired and eager for your own lunar adventures. Get ready to blast off on an unforgettable journey in "Lunar Adventurer: A Retrowave Journey".</p>
+<p><strong> Credits: </strong></p>
 <p>Art created with Midjourney AI.</p>
-</p>
 <p>Script inspired by GPT-3</p>
-</p>
-<p> Layout and panelling done with Canva </p>
-
-
-
+<p>Layout and panelling done with Canva</p>
             ]]>
         </content>
     </entry>
