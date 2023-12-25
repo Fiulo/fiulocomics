@@ -3,7 +3,7 @@
     <title>Fiulo Comics</title>
     <link href="https://comics.fiulo.com/feed.xml" rel="self" />
     <link href="https://comics.fiulo.com" />
-    <updated>2023-12-25T20:33:32+00:00</updated>
+    <updated>2023-12-25T20:34:32+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -36,7 +36,7 @@
         <id>https://comics.fiulo.com/the-star-wanderers-issue-1.html</id>
         <media:content url="https://comics.fiulo.com/media/posts/3/Page_1-2.jpg" medium="image" />
 
-        <updated>2023-12-25T20:30:56+00:00</updated>
+        <updated>2023-12-25T20:34:32+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://comics.fiulo.com/media/posts/3/Page_1-2.jpg" alt="" />
@@ -54,7 +54,7 @@
 <div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/3/Page_2.jpg" style="padding: 1em 0; text-align: center;"><img loading="lazy" src="https://comics.fiulo.com/media/posts/3/Page_2.jpg" alt="" border="0" data-original-height="3508" data-original-width="2479" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_2-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-xxl.jpg 1600w"></a></div>
 <p>Page 3:</p>
 <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/3/Page_3.jpg" alt="" width="1131" height="1600" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_3-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xxl.jpg 1600w"></figure>
-<div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/3/Page_3.jpg" style="padding: 1em 0; text-align: center;"><img loading="lazy" src="https://comics.fiulo.com/media/posts/3/Page_3.jpg" alt="" border="0" data-original-height="3508" data-original-width="2479" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_3-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xxl.jpg 1600w"></a></div>
+<div style="clear: both;"> </div>
             ]]>
         </content>
     </entry>
