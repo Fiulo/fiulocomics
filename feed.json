@@ -13,7 +13,7 @@
             "id": "https://comics.fiulo.com/the-bunny-brigade-issue-1.html",
             "url": "https://comics.fiulo.com/the-bunny-brigade-issue-1.html",
             "title": "The Bunny Brigade - Issue 1",
-            "content_html": "<div style=\"clear: both;\"><a href=\"https://comics.fiulo.com/media/posts/2/Page_1.jpg\" style=\"padding: 1em 0; text-align: center;\"><figure class=\"post__image\"><img  src=\"https://comics.fiulo.com/media/posts/2/Page_1.jpg\" alt=\"\" width=\"2479\" height=\"3508\" sizes=\"(min-width: 720px) 603px, calc(85.75vw + 16px)\" srcset=\"https://comics.fiulo.com/media/posts/2/responsive/Page_1-xs.jpg 320w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-md.jpg 768w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xxl.jpg 1600w\"></figure><img loading=\"lazy\" src=\"https://comics.fiulo.com/media/posts/2/Page_1.jpg\" alt=\"\" border=\"0\" data-original-height=\"3508\" data-original-width=\"2479\" sizes=\"(min-width: 720px) 603px, calc(85.75vw + 16px)\" srcset=\"https://comics.fiulo.com/media/posts/2/responsive/Page_1-xs.jpg 320w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-md.jpg 768w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xxl.jpg 1600w\"></a></div>",
+            "content_html": "<div style=\"clear: both;\"><a href=\"https://comics.fiulo.com/media/posts/2/Page_1.jpg\" style=\"padding: 1em 0; text-align: center;\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://comics.fiulo.com/media/posts/2/Page_1.jpg\" alt=\"\" width=\"2479\" height=\"3508\" sizes=\"(min-width: 720px) 603px, calc(85.75vw + 16px)\" srcset=\"https://comics.fiulo.com/media/posts/2/responsive/Page_1-xs.jpg 320w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-md.jpg 768w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xxl.jpg 1600w\"></figure></a></div>",
             "image": "https://comics.fiulo.com/media/posts/2/Page_1-2.jpg",
             "author": {
                 "name": "Fiulo"
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2023-02-26T21:31:00+00:00",
-            "date_modified": "2023-12-25T20:31:30+00:00"
+            "date_modified": "2023-12-25T20:32:16+00:00"
         },
         {
             "id": "https://comics.fiulo.com/the-star-wanderers-issue-1.html",
