@@ -3,7 +3,7 @@
     <title>Fiulo Comics</title>
     <link href="https://comics.fiulo.com/feed.xml" rel="self" />
     <link href="https://comics.fiulo.com" />
-    <updated>2023-12-26T23:44:01+00:00</updated>
+    <updated>2023-12-26T23:45:13+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://comics.fiulo.com/dwarves-and-snake.html"/>
         <id>https://comics.fiulo.com/dwarves-and-snake.html</id>
+            <category term="Single Panel Comics"/>
 
-        <updated>2023-12-26T23:44:01+00:00</updated>
+        <updated>2023-12-26T23:45:13+00:00</updated>
             <summary>
                 <![CDATA[
                     Encounter in the enchanted caves! 🐍✨ Our intrepid explorers meet a slithery inhabitant. Is it friend or foe? Looks like it's time for a bit of magical music to find out! 
