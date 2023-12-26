@@ -10,6 +10,50 @@
     },
     "items": [
         {
+            "id": "https://comics.fiulo.com/dwarves-and-snake.html",
+            "url": "https://comics.fiulo.com/dwarves-and-snake.html",
+            "title": "Dwarves and Snake",
+            "summary": "Encounter in the enchanted caves! 🐍✨ Our intrepid explorers meet a slithery inhabitant. Is it friend or foe? Looks like it's time for a bit of magical music to find out! ",
+            "content_html": "<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://comics.fiulo.com/media/posts/7/dwarves_and_snake.png\" alt=\"\" width=\"1024\" height=\"1024\" sizes=\"(min-width: 720px) 603px, calc(85.75vw + 16px)\" srcset=\"https://comics.fiulo.com/media/posts/7/responsive/dwarves_and_snake-xs.png 320w ,https://comics.fiulo.com/media/posts/7/responsive/dwarves_and_snake-sm.png 480w ,https://comics.fiulo.com/media/posts/7/responsive/dwarves_and_snake-md.png 768w ,https://comics.fiulo.com/media/posts/7/responsive/dwarves_and_snake-xl.png 1200w ,https://comics.fiulo.com/media/posts/7/responsive/dwarves_and_snake-xxl.png 1600w\"></figure>\n<p>Encounter in the enchanted caves! 🐍✨ Our intrepid explorers meet a slithery inhabitant. Is it friend or foe? Looks like it's time for a bit of magical music to find out! </p>",
+            "author": {
+                "name": "Fiulo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-26T23:44:01+00:00",
+            "date_modified": "2023-12-26T23:44:01+00:00"
+        },
+        {
+            "id": "https://comics.fiulo.com/test-2.html",
+            "url": "https://comics.fiulo.com/test-2.html",
+            "title": "Test",
+            "summary": "rr",
+            "content_html": "<p>rr</p>\n",
+            "author": {
+                "name": "Fiulo"
+            },
+            "tags": [
+                   "Multi Panel Comics"
+            ],
+            "date_published": "2023-12-26T22:59:06+00:00",
+            "date_modified": "2023-12-26T22:59:06+00:00"
+        },
+        {
+            "id": "https://comics.fiulo.com/test.html",
+            "url": "https://comics.fiulo.com/test.html",
+            "title": "Test",
+            "summary": "content",
+            "content_html": "<p>content</p>\n",
+            "author": {
+                "name": "Fiulo"
+            },
+            "tags": [
+                   "Single Panel Comics"
+            ],
+            "date_published": "2023-12-26T22:48:48+00:00",
+            "date_modified": "2023-12-26T22:48:48+00:00"
+        },
+        {
             "id": "https://comics.fiulo.com/the-bunny-brigade-issue-1.html",
             "url": "https://comics.fiulo.com/the-bunny-brigade-issue-1.html",
             "title": "The Bunny Brigade - Issue 1",
@@ -19,9 +63,10 @@
                 "name": "Fiulo"
             },
             "tags": [
+                   "Full Comics"
             ],
             "date_published": "2023-02-26T21:31:00+00:00",
-            "date_modified": "2023-12-25T20:32:16+00:00"
+            "date_modified": "2023-12-26T11:01:06+00:00"
         },
         {
             "id": "https://comics.fiulo.com/the-star-wanderers-issue-1.html",
@@ -34,9 +79,10 @@
                 "name": "Fiulo"
             },
             "tags": [
+                   "Full Comics"
             ],
             "date_published": "2023-02-13T00:07:00+00:00",
-            "date_modified": "2023-12-25T20:34:32+00:00"
+            "date_modified": "2023-12-26T11:00:49+00:00"
         },
         {
             "id": "https://comics.fiulo.com/lunar-adventurer-a-retrowave-journey.html",
@@ -49,9 +95,10 @@
                 "name": "Fiulo"
             },
             "tags": [
+                   "Full Comics"
             ],
             "date_published": "2023-02-10T18:28:00+00:00",
-            "date_modified": "2023-12-25T20:33:32+00:00"
+            "date_modified": "2023-12-26T11:00:57+00:00"
         }
     ]
 }
