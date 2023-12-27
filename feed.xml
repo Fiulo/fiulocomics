@@ -3,7 +3,7 @@
     <title>Fiulo Comics</title>
     <link href="https://comics.fiulo.com/feed.xml" rel="self" />
     <link href="https://comics.fiulo.com" />
-    <updated>2023-12-27T00:08:43+00:00</updated>
+    <updated>2023-12-27T14:49:08+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -82,6 +82,99 @@
         </content>
     </entry>
     <entry>
+        <title>This Will Change Everything!</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://comics.fiulo.com/this-will-change-everything.html"/>
+        <id>https://comics.fiulo.com/this-will-change-everything.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/9/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-2.png" medium="image" />
+            <category term="Single Panel Comics"/>
+
+        <updated>2023-12-27T14:49:08+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://comics.fiulo.com/media/posts/9/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/9/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/9/responsive/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-xs.png 320w ,https://comics.fiulo.com/media/posts/9/responsive/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-sm.png 480w ,https://comics.fiulo.com/media/posts/9/responsive/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-md.png 768w ,https://comics.fiulo.com/media/posts/9/responsive/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-xl.png 1200w ,https://comics.fiulo.com/media/posts/9/responsive/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-xxl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Galactic Greetings</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://comics.fiulo.com/galactic-greetingd.html"/>
+        <id>https://comics.fiulo.com/galactic-greetingd.html</id>
+            <category term="Single Panel Comics"/>
+
+        <updated>2023-12-27T14:45:19+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/10/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/10/responsive/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture-xs.png 320w ,https://comics.fiulo.com/media/posts/10/responsive/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture-sm.png 480w ,https://comics.fiulo.com/media/posts/10/responsive/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture-md.png 768w ,https://comics.fiulo.com/media/posts/10/responsive/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture-xl.png 1200w ,https://comics.fiulo.com/media/posts/10/responsive/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture-xxl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Joy of Fresh Cookies</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://comics.fiulo.com/the-joy-of-fresh-cookies.html"/>
+        <id>https://comics.fiulo.com/the-joy-of-fresh-cookies.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/11/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s.png" medium="image" />
+            <category term="Single Panel Comics"/>
+
+        <updated>2023-12-27T14:46:43+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://comics.fiulo.com/media/posts/11/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/11/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/11/responsive/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2-xs.png 320w ,https://comics.fiulo.com/media/posts/11/responsive/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2-sm.png 480w ,https://comics.fiulo.com/media/posts/11/responsive/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2-md.png 768w ,https://comics.fiulo.com/media/posts/11/responsive/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2-xl.png 1200w ,https://comics.fiulo.com/media/posts/11/responsive/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2-xxl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Quest for the Elusive Songbird</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://comics.fiulo.com/the-quest-for-the-elusive-songbird.html"/>
+        <id>https://comics.fiulo.com/the-quest-for-the-elusive-songbird.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/12/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t.png" medium="image" />
+            <category term="Single Panel Comics"/>
+
+        <updated>2023-12-27T14:47:57+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://comics.fiulo.com/media/posts/12/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/12/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-xs.png 320w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-sm.png 480w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-md.png 768w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-xl.png 1200w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-xxl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Neon Skies Challenge</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://comics.fiulo.com/neon-skies-challenge.html"/>
+        <id>https://comics.fiulo.com/neon-skies-challenge.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/13/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance.png" medium="image" />
+            <category term="Single Panel Comics"/>
+
+        <updated>2023-12-27T14:48:54+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://comics.fiulo.com/media/posts/13/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/13/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/13/responsive/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2-xs.png 320w ,https://comics.fiulo.com/media/posts/13/responsive/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2-sm.png 480w ,https://comics.fiulo.com/media/posts/13/responsive/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2-md.png 768w ,https://comics.fiulo.com/media/posts/13/responsive/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2-xl.png 1200w ,https://comics.fiulo.com/media/posts/13/responsive/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2-xxl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>The Bunny Brigade - Issue 1</title>
         <author>
             <name>Fiulo</name>
@@ -129,37 +222,6 @@
 <p>Page 3:</p>
 <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/3/Page_3.jpg" alt="" width="1131" height="1600" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_3-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xxl.jpg 1600w"></figure>
 <div style="clear: both;"> </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Lunar Adventurer: A Retrowave Journey</title>
-        <author>
-            <name>Fiulo</name>
-        </author>
-        <link href="https://comics.fiulo.com/lunar-adventurer-a-retrowave-journey.html"/>
-        <id>https://comics.fiulo.com/lunar-adventurer-a-retrowave-journey.html</id>
-        <media:content url="https://comics.fiulo.com/media/posts/4/Lunar-Adventurer-A-Retrowave-Journey-2.jpg" medium="image" />
-            <category term="Full Comics"/>
-
-        <updated>2023-12-26T11:00:57+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://comics.fiulo.com/media/posts/4/Lunar-Adventurer-A-Retrowave-Journey-2.jpg" alt="" />
-                    Here's something I created using art from Midjourney. Unfortunately I couldn't get Midjourney to create my vision quite as I'd hoped but I think this comic turned out all right Follow the story of a determined man with a bike and jetpack, as he takes&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://comics.fiulo.com/media/posts/4/Lunar-Adventurer-A-Retrowave-Journey-2.jpg" class="type:primaryImage" alt="" /></p>
-                <div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/4/Lunar-20Adventurer-20-20A-20Retrowave-20Journey.png" style="padding: 1em 0; text-align: center;"><img loading="lazy" src="https://comics.fiulo.com/media/posts/4/Lunar-20Adventurer-20-20A-20Retrowave-20Journey.png" alt="" border="0" data-original-height="3508" data-original-width="2480" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-xs.png 320w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-sm.png 480w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-md.png 768w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-xl.png 1200w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-20Adventurer-20-20A-20Retrowave-20Journey-xxl.png 1600w"></a></div>
-<p>Here's something I created using art from Midjourney. Unfortunately I couldn't get Midjourney to create my vision quite as I'd hoped but I think this comic turned out all right</p>
-<figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/4/Lunar-Adventurer-A-Retrowave-Journey.jpg" alt="" width="2480" height="3508" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/4/responsive/Lunar-Adventurer-A-Retrowave-Journey-xs.jpg 320w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-Adventurer-A-Retrowave-Journey-sm.jpg 480w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-Adventurer-A-Retrowave-Journey-md.jpg 768w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-Adventurer-A-Retrowave-Journey-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/4/responsive/Lunar-Adventurer-A-Retrowave-Journey-xxl.jpg 1600w"></figure>
-<p>Follow the story of a determined man with a bike and jetpack, as he takes off and soars through the air in a retro-futuristic universe. Upon reading this you'll be transported to a world full of adventure and wonder. Watch as the man explores the craters and mountains of the moon and marvels at the breathtaking view of the stars. This comic is sure to leave you inspired and eager for your own lunar adventures. Get ready to blast off on an unforgettable journey in "Lunar Adventurer: A Retrowave Journey".</p>
-<p><strong> Credits: </strong></p>
-<p>Art created with Midjourney AI.</p>
-<p>Script inspired by GPT-3</p>
-<p>Layout and panelling done with Canva</p>
             ]]>
         </content>
     </entry>
