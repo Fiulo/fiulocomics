@@ -3,7 +3,7 @@
     <title>Fiulo Comics</title>
     <link href="https://comics.fiulo.com/feed.xml" rel="self" />
     <link href="https://comics.fiulo.com" />
-    <updated>2023-12-26T23:45:13+00:00</updated>
+    <updated>2023-12-27T00:07:18+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -73,6 +73,27 @@
             <![CDATA[
                 <p>content</p>
 
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bard and Minstrel</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://comics.fiulo.com/bard-and-minstrel.html"/>
+        <id>https://comics.fiulo.com/bard-and-minstrel.html</id>
+            <category term="Single Panel Comics"/>
+
+        <updated>2023-12-27T00:07:18+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Step right up for a story and a song! 📖🎵 Our cheerful bard and his minstrel friend invite you to a performance filled with tales of old and melodies that warm the heart.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Step right up for a story and a song! 📖🎵 Our cheerful bard and his minstrel friend invite you to a performance filled with tales of old and melodies that warm the heart.<figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/8/bard_and_minstrel.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/8/responsive/bard_and_minstrel-xs.png 320w ,https://comics.fiulo.com/media/posts/8/responsive/bard_and_minstrel-sm.png 480w ,https://comics.fiulo.com/media/posts/8/responsive/bard_and_minstrel-md.png 768w ,https://comics.fiulo.com/media/posts/8/responsive/bard_and_minstrel-xl.png 1200w ,https://comics.fiulo.com/media/posts/8/responsive/bard_and_minstrel-xxl.png 1600w"></figure>
             ]]>
         </content>
     </entry>

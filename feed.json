@@ -55,6 +55,21 @@
             "date_modified": "2023-12-26T22:48:48+00:00"
         },
         {
+            "id": "https://comics.fiulo.com/bard-and-minstrel.html",
+            "url": "https://comics.fiulo.com/bard-and-minstrel.html",
+            "title": "Bard and Minstrel",
+            "summary": "Step right up for a story and a song! 📖🎵 Our cheerful bard and his minstrel friend invite you to a performance filled with tales of old and melodies that warm the heart.",
+            "content_html": "<p>Step right up for a story and a song! 📖🎵 Our cheerful bard and his minstrel friend invite you to a performance filled with tales of old and melodies that warm the heart.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://comics.fiulo.com/media/posts/8/bard_and_minstrel.png\" alt=\"\" width=\"1024\" height=\"1024\" sizes=\"(min-width: 720px) 603px, calc(85.75vw + 16px)\" srcset=\"https://comics.fiulo.com/media/posts/8/responsive/bard_and_minstrel-xs.png 320w ,https://comics.fiulo.com/media/posts/8/responsive/bard_and_minstrel-sm.png 480w ,https://comics.fiulo.com/media/posts/8/responsive/bard_and_minstrel-md.png 768w ,https://comics.fiulo.com/media/posts/8/responsive/bard_and_minstrel-xl.png 1200w ,https://comics.fiulo.com/media/posts/8/responsive/bard_and_minstrel-xxl.png 1600w\"></figure>",
+            "author": {
+                "name": "Fiulo"
+            },
+            "tags": [
+                   "Single Panel Comics"
+            ],
+            "date_published": "2023-12-24T22:00:00+00:00",
+            "date_modified": "2023-12-27T00:07:18+00:00"
+        },
+        {
             "id": "https://comics.fiulo.com/the-bunny-brigade-issue-1.html",
             "url": "https://comics.fiulo.com/the-bunny-brigade-issue-1.html",
             "title": "The Bunny Brigade - Issue 1",
