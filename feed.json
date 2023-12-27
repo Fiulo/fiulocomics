@@ -41,21 +41,6 @@
             "date_modified": "2023-12-26T22:59:06+00:00"
         },
         {
-            "id": "https://comics.fiulo.com/test.html",
-            "url": "https://comics.fiulo.com/test.html",
-            "title": "Test",
-            "summary": "content",
-            "content_html": "<p>content</p>\n",
-            "author": {
-                "name": "Fiulo"
-            },
-            "tags": [
-                   "Single Panel Comics"
-            ],
-            "date_published": "2023-12-26T22:48:48+00:00",
-            "date_modified": "2023-12-26T22:48:48+00:00"
-        },
-        {
             "id": "https://comics.fiulo.com/bard-and-minstrel.html",
             "url": "https://comics.fiulo.com/bard-and-minstrel.html",
             "title": "Bard and Minstrel",

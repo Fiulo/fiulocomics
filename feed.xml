@@ -58,28 +58,6 @@
         </content>
     </entry>
     <entry>
-        <title>Test</title>
-        <author>
-            <name>Fiulo</name>
-        </author>
-        <link href="https://comics.fiulo.com/test.html"/>
-        <id>https://comics.fiulo.com/test.html</id>
-            <category term="Single Panel Comics"/>
-
-        <updated>2023-12-26T22:48:48+00:00</updated>
-            <summary>
-                <![CDATA[
-                    content
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>content</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Bard and Minstrel</title>
         <author>
             <name>Fiulo</name>
