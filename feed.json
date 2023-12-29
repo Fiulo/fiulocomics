@@ -90,21 +90,6 @@
             "date_modified": "2023-12-27T00:08:28+00:00"
         },
         {
-            "id": "https://comics.fiulo.com/test-2.html",
-            "url": "https://comics.fiulo.com/test-2.html",
-            "title": "Test",
-            "summary": "rr",
-            "content_html": "<p>rr</p>\n",
-            "author": {
-                "name": "Fiulo"
-            },
-            "tags": [
-                   "Multi Panel Comics"
-            ],
-            "date_published": "2023-12-26T22:59:06+00:00",
-            "date_modified": "2023-12-26T22:59:06+00:00"
-        },
-        {
             "id": "https://comics.fiulo.com/bard-and-minstrel.html",
             "url": "https://comics.fiulo.com/bard-and-minstrel.html",
             "title": "Bard and Minstrel",
@@ -167,6 +152,22 @@
             ],
             "date_published": "2023-12-19T14:00:00+00:00",
             "date_modified": "2023-12-29T23:03:29+00:00"
+        },
+        {
+            "id": "https://comics.fiulo.com/elf-and-lizardman.html",
+            "url": "https://comics.fiulo.com/elf-and-lizardman.html",
+            "title": "Elf and Lizardman",
+            "summary": "Get ready to groove with some spellbinding moves! Our lizard wizard and elf ally are about to cast a spell that's sure to be the hit of the enchanted forest. Is it dance magic time? You bet it is!",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://comics.fiulo.com/media/posts/28/elf_and_lizardman.png\" alt=\"\" width=\"1024\" height=\"1024\" sizes=\"(min-width: 720px) 603px, calc(85.75vw + 16px)\" srcset=\"https://comics.fiulo.com/media/posts/28/responsive/elf_and_lizardman-xs.png 320w ,https://comics.fiulo.com/media/posts/28/responsive/elf_and_lizardman-sm.png 480w ,https://comics.fiulo.com/media/posts/28/responsive/elf_and_lizardman-md.png 768w ,https://comics.fiulo.com/media/posts/28/responsive/elf_and_lizardman-xl.png 1200w ,https://comics.fiulo.com/media/posts/28/responsive/elf_and_lizardman-xxl.png 1600w\"></figure>\n<figure class=\"r-4qtqp9 r-dflpy8 r-zw8f10 r-sjv1od r-10akycc r-h9hxbl\"><span class=\"css-1qaijid r-bcqeeo r-qvutc0 r-poiln3\">Get ready to groove with some spellbinding moves! Our lizard wizard and elf ally are about to cast a spell that's sure to be the hit of the enchanted forest. Is it dance magic time? You bet it is!</span><img  title=\"Woman dancing\" draggable=\"false\" src=\"https://abs-0.twimg.com/emoji/v2/svg/1f483.svg\" alt=\"💃\" data-is-external-image=\"true\"></figure><figure class=\"r-4qtqp9 r-dflpy8 r-zw8f10 r-sjv1od r-10akycc r-h9hxbl\"><img loading=\"lazy\"  title=\"Woman elf\" draggable=\"false\" src=\"https://abs-0.twimg.com/emoji/v2/svg/1f9dd-200d-2640-fe0f.svg\" alt=\"🧝‍♀️\" data-is-external-image=\"true\"></figure><figure class=\"r-4qtqp9 r-dflpy8 r-zw8f10 r-sjv1od r-10akycc r-h9hxbl\"><img loading=\"lazy\"  title=\"Snake\" draggable=\"false\" src=\"https://abs-0.twimg.com/emoji/v2/svg/1f40d.svg\" alt=\"🐍\" data-is-external-image=\"true\"></figure>",
+            "image": "https://comics.fiulo.com/media/posts/28/elf_and_lizardman-2.png",
+            "author": {
+                "name": "Fiulo"
+            },
+            "tags": [
+                   "Single Panel Comics"
+            ],
+            "date_published": "2023-12-18T14:00:00+00:00",
+            "date_modified": "2023-12-29T23:01:59+00:00"
         }
     ]
 }

@@ -135,28 +135,6 @@
         </content>
     </entry>
     <entry>
-        <title>Test</title>
-        <author>
-            <name>Fiulo</name>
-        </author>
-        <link href="https://comics.fiulo.com/test-2.html"/>
-        <id>https://comics.fiulo.com/test-2.html</id>
-            <category term="Multi Panel Comics"/>
-
-        <updated>2023-12-26T22:59:06+00:00</updated>
-            <summary>
-                <![CDATA[
-                    rr
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>rr</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Bard and Minstrel</title>
         <author>
             <name>Fiulo</name>
@@ -252,6 +230,31 @@
                     <p><img src="https://comics.fiulo.com/media/posts/29/elf_and_minotaur-2.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/29/elf_and_minotaur.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/29/responsive/elf_and_minotaur-xs.png 320w ,https://comics.fiulo.com/media/posts/29/responsive/elf_and_minotaur-sm.png 480w ,https://comics.fiulo.com/media/posts/29/responsive/elf_and_minotaur-md.png 768w ,https://comics.fiulo.com/media/posts/29/responsive/elf_and_minotaur-xl.png 1200w ,https://comics.fiulo.com/media/posts/29/responsive/elf_and_minotaur-xxl.png 1600w"></figure>
 <p>In a labyrinth of twists and turns, our mighty minotaur and clever elf sorceress are navigating the puzzles. Will her spell be the key? Stay tuned for the next turn! 🧭🐂✨</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Elf and Lizardman</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://comics.fiulo.com/elf-and-lizardman.html"/>
+        <id>https://comics.fiulo.com/elf-and-lizardman.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/28/elf_and_lizardman-2.png" medium="image" />
+            <category term="Single Panel Comics"/>
+
+        <updated>2023-12-29T23:01:59+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://comics.fiulo.com/media/posts/28/elf_and_lizardman-2.png" alt="" />
+                    Get ready to groove with some spellbinding moves! Our lizard wizard and elf ally are about to cast a spell that's sure to be the hit of the enchanted forest. Is it dance magic time? You bet it is!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://comics.fiulo.com/media/posts/28/elf_and_lizardman-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/28/elf_and_lizardman.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/28/responsive/elf_and_lizardman-xs.png 320w ,https://comics.fiulo.com/media/posts/28/responsive/elf_and_lizardman-sm.png 480w ,https://comics.fiulo.com/media/posts/28/responsive/elf_and_lizardman-md.png 768w ,https://comics.fiulo.com/media/posts/28/responsive/elf_and_lizardman-xl.png 1200w ,https://comics.fiulo.com/media/posts/28/responsive/elf_and_lizardman-xxl.png 1600w"></figure>
+<figure class="r-4qtqp9 r-dflpy8 r-zw8f10 r-sjv1od r-10akycc r-h9hxbl"><span class="css-1qaijid r-bcqeeo r-qvutc0 r-poiln3">Get ready to groove with some spellbinding moves! Our lizard wizard and elf ally are about to cast a spell that's sure to be the hit of the enchanted forest. Is it dance magic time? You bet it is!</span><img  title="Woman dancing" draggable="false" src="https://abs-0.twimg.com/emoji/v2/svg/1f483.svg" alt="💃" data-is-external-image="true"></figure><figure class="r-4qtqp9 r-dflpy8 r-zw8f10 r-sjv1od r-10akycc r-h9hxbl"><img loading="lazy"  title="Woman elf" draggable="false" src="https://abs-0.twimg.com/emoji/v2/svg/1f9dd-200d-2640-fe0f.svg" alt="🧝‍♀️" data-is-external-image="true"></figure><figure class="r-4qtqp9 r-dflpy8 r-zw8f10 r-sjv1od r-10akycc r-h9hxbl"><img loading="lazy"  title="Snake" draggable="false" src="https://abs-0.twimg.com/emoji/v2/svg/1f40d.svg" alt="🐍" data-is-external-image="true"></figure>
             ]]>
         </content>
     </entry>
