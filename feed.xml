@@ -3,7 +3,7 @@
     <title>Fiulo Comics</title>
     <link href="https://comics.fiulo.com/feed.xml" rel="self" />
     <link href="https://comics.fiulo.com" />
-    <updated>2023-12-29T22:36:41+00:00</updated>
+    <updated>2023-12-29T22:46:54+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -128,106 +128,140 @@
         </author>
         <link href="https://comics.fiulo.com/ailo-and-raunis-winter-refuge.html"/>
         <id>https://comics.fiulo.com/ailo-and-raunis-winter-refuge.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/16/DALLE-2023-10-24-22.19.02-2.png" medium="image" />
             <category term="Single Panel Comics"/>
 
-        <updated>2023-12-29T22:36:19+00:00</updated>
-            <summary></summary>
+        <updated>2023-12-29T22:41:52+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://comics.fiulo.com/media/posts/16/DALLE-2023-10-24-22.19.02-2.png" alt="" />
+                    Nestled in a cozy cabin, deep within the whispering pines, Ailo and Rauni find solace from the crisp chill of the Nordic wilderness. Wrapped in the warmth of their retreat, the couple sits by the crackling hearth, a gentle symphony to their perfect solitude. Ailo,&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://comics.fiulo.com/media/posts/16/DALLE-2023-10-24-22.19.02-2.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/16/DALLE-2023-10-24-22.19.02.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/16/responsive/DALLE-2023-10-24-22.19.02-xs.png 320w ,https://comics.fiulo.com/media/posts/16/responsive/DALLE-2023-10-24-22.19.02-sm.png 480w ,https://comics.fiulo.com/media/posts/16/responsive/DALLE-2023-10-24-22.19.02-md.png 768w ,https://comics.fiulo.com/media/posts/16/responsive/DALLE-2023-10-24-22.19.02-xl.png 1200w ,https://comics.fiulo.com/media/posts/16/responsive/DALLE-2023-10-24-22.19.02-xxl.png 1600w"></figure>
+<p>Nestled in a cozy cabin, deep within the whispering pines, Ailo and Rauni find solace from the crisp chill of the Nordic wilderness. Wrapped in the warmth of their retreat, the couple sits by the crackling hearth, a gentle symphony to their perfect solitude. Ailo, with a mug of steaming cocoa cradled in her hands, gazes out of the window at the snow-dusted firs and breathes a contented sigh, "This is the perfect getaway!" Rauni, clad in a festive sweater, echoes her sentiment with a smile as warm as the fire before them, "Couldn't agree more!" Their trusty feline companion, Lumi, curls up on a plaid cushion, her purrs adding to the cabin's enchantment. As twilight descends and the first evening star winks into existence above the serene landscape, the cabin becomes a beacon of light and laughter, a haven for love and quiet joys, where the outside world melts away with the snowflakes that kiss the windowpanes.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Aylin and Emre&#x27;s Starlit Serenade</title>
+        <title>Caolan and Niamh&#x27;s Luminous Discovery</title>
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://comics.fiulo.com/aylin-and-emres-starlit-serenade.html"/>
-        <id>https://comics.fiulo.com/aylin-and-emres-starlit-serenade.html</id>
-        <media:content url="https://comics.fiulo.com/media/posts/14/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-2.png" medium="image" />
+        <link href="https://comics.fiulo.com/caolan-and-niamhs-luminous-discovery.html"/>
+        <id>https://comics.fiulo.com/caolan-and-niamhs-luminous-discovery.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/17/DALLE2~1.PNG" medium="image" />
             <category term="Single Panel Comics"/>
 
-        <updated>2023-12-29T22:33:48+00:00</updated>
-            <summary></summary>
+        <updated>2023-12-29T22:38:54+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://comics.fiulo.com/media/posts/17/DALLE2~1.PNG" alt="" />
+                    Deep beneath the emerald hills of their ancient land, Caolan and Niamh, two intrepid explorers clad in miner's gear, stand awestruck in a cavern aglow with mystic radiance. "These gems are incredible!" exclaims Caolan, his voice a mix of wonder and reverence, as his lamp&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://comics.fiulo.com/media/posts/14/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-2.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/14/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/14/responsive/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-xs.png 320w ,https://comics.fiulo.com/media/posts/14/responsive/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-sm.png 480w ,https://comics.fiulo.com/media/posts/14/responsive/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-md.png 768w ,https://comics.fiulo.com/media/posts/14/responsive/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-xl.png 1200w ,https://comics.fiulo.com/media/posts/14/responsive/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-xxl.png 1600w"></figure>
+                    <p><img src="https://comics.fiulo.com/media/posts/17/DALLE2~1.PNG" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/17/DALLE2~1-2.PNG" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/17/responsive/DALLE2~1-2-xs.PNG 320w ,https://comics.fiulo.com/media/posts/17/responsive/DALLE2~1-2-sm.PNG 480w ,https://comics.fiulo.com/media/posts/17/responsive/DALLE2~1-2-md.PNG 768w ,https://comics.fiulo.com/media/posts/17/responsive/DALLE2~1-2-xl.PNG 1200w ,https://comics.fiulo.com/media/posts/17/responsive/DALLE2~1-2-xxl.PNG 1600w"></figure>
+<p>Deep beneath the emerald hills of their ancient land, Caolan and Niamh, two intrepid explorers clad in miner's gear, stand awestruck in a cavern aglow with mystic radiance. "These gems are incredible!" exclaims Caolan, his voice a mix of wonder and reverence, as his lamp casts light upon the crystalline bounty. Niamh, with eyes wide and sparkling as the treasures around her, can't help but agree, "A hidden treasure!" Indeed, they've stumbled upon the fabled Sidhe Crystal Grotto, a secret whispered in legends, where the earth's heartbeat turns stone into splendor. Each gem, imbued with the hues of the northern lights, tells a story older than the stars. Their discovery, a canvas of light and shadow, drips with icicles and the promise of ancient magic, sealing their names in the lore of their people. As they gather the radiant stones, their hearts beat in unison with the timeless dance of the earth, their spirits forever entwined with the legacy of the grotto's hidden wonders.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>This Will Change Everything!</title>
+        <title>Egle and Matas&#x27;s Enchantment Emporium</title>
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://comics.fiulo.com/this-will-change-everything.html"/>
-        <id>https://comics.fiulo.com/this-will-change-everything.html</id>
-        <media:content url="https://comics.fiulo.com/media/posts/9/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-2.png" medium="image" />
+        <link href="https://comics.fiulo.com/egle-and-matass-enchantment-emporium.html"/>
+        <id>https://comics.fiulo.com/egle-and-matass-enchantment-emporium.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/18/DALLE-2023-10-24-22.20.29-2.png" medium="image" />
             <category term="Single Panel Comics"/>
 
-        <updated>2023-12-27T14:49:08+00:00</updated>
-            <summary></summary>
+        <updated>2023-12-29T22:40:42+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://comics.fiulo.com/media/posts/18/DALLE-2023-10-24-22.20.29-2.png" alt="" />
+                    In the heart of a mystical forest, the enchantment emporium of Eglė and Matas glows with the promise of arcane secrets. "These spells are ancient!" Eglė exclaims, her eyes reflecting the wisdom of the tomes she so lovingly preserves. Matas, his youthful face lit by&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://comics.fiulo.com/media/posts/9/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-2.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/9/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/9/responsive/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-xs.png 320w ,https://comics.fiulo.com/media/posts/9/responsive/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-sm.png 480w ,https://comics.fiulo.com/media/posts/9/responsive/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-md.png 768w ,https://comics.fiulo.com/media/posts/9/responsive/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-xl.png 1200w ,https://comics.fiulo.com/media/posts/9/responsive/DALLE-2023-10-24-22.18.20-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-At-a-magical-potion-shop-a-female-wizard-showcases-a-glowing-potion-an-xxl.png 1600w"></figure>
+                    <p><img src="https://comics.fiulo.com/media/posts/18/DALLE-2023-10-24-22.20.29-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/18/DALLE-2023-10-24-22.20.29.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/18/responsive/DALLE-2023-10-24-22.20.29-xs.png 320w ,https://comics.fiulo.com/media/posts/18/responsive/DALLE-2023-10-24-22.20.29-sm.png 480w ,https://comics.fiulo.com/media/posts/18/responsive/DALLE-2023-10-24-22.20.29-md.png 768w ,https://comics.fiulo.com/media/posts/18/responsive/DALLE-2023-10-24-22.20.29-xl.png 1200w ,https://comics.fiulo.com/media/posts/18/responsive/DALLE-2023-10-24-22.20.29-xxl.png 1600w"></figure>
+<p>In the heart of a mystical forest, the enchantment emporium of Eglė and Matas glows with the promise of arcane secrets. "These spells are ancient!" Eglė exclaims, her eyes reflecting the wisdom of the tomes she so lovingly preserves. Matas, his youthful face lit by the cauldron's eerie emerald flames, chimes in with a gleeful, "And powerful!" Together, they are the guardians of forgotten lore, their shop a trove of magical artifacts and bubbling potions, each shelf a chapter from the past. Here, the night is alive with whispers of the old ways, as stars peek curiously through the window, blessing the incantations and rituals performed within these hallowed walls. As Eglė deciphers another spell, a spell to mend broken hearts or to call forth a gentle rain, Matas carefully adds a pinch of this and a dash of that to their latest concoction, their teamwork as seamless as the flow of time. In this little nook of the world, magic is not just alive; it thrives, woven into every gesture, every ingredient, every ancient word uttered with reverence—a dance of power and tradition that Eglė and Matas master with humble hands and eager hearts.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Galactic Greetings</title>
+        <title>Undersea Adventure</title>
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://comics.fiulo.com/galactic-greetingd.html"/>
-        <id>https://comics.fiulo.com/galactic-greetingd.html</id>
+        <link href="https://comics.fiulo.com/undersea-adventure.html"/>
+        <id>https://comics.fiulo.com/undersea-adventure.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/19/DA8C91~1.PNG" medium="image" />
             <category term="Single Panel Comics"/>
 
-        <updated>2023-12-27T14:45:19+00:00</updated>
-            <summary></summary>
+        <updated>2023-12-29T22:43:46+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://comics.fiulo.com/media/posts/19/DA8C91~1.PNG" alt="" />
+                    In the kaleidoscopic world beneath the waves, two young ocean enthusiasts, Jake and Lily, embark on a vibrant voyage through the Coral Kingdom. With bubbling enthusiasm, Jake points excitedly and shouts, "Found Nemo!" just as Lily, with equal glee, exclaims, "And Dory too!" They swim&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/10/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/10/responsive/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture-xs.png 320w ,https://comics.fiulo.com/media/posts/10/responsive/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture-sm.png 480w ,https://comics.fiulo.com/media/posts/10/responsive/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture-md.png 768w ,https://comics.fiulo.com/media/posts/10/responsive/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture-xl.png 1200w ,https://comics.fiulo.com/media/posts/10/responsive/DALLE-2023-10-24-22.18.41-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-On-a-bustling-spaceship-deck-a-female-alien-with-multiple-eyes-gesture-xxl.png 1600w"></figure>
+                    <p><img src="https://comics.fiulo.com/media/posts/19/DA8C91~1.PNG" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/19/DA8C91~1-2.PNG" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/19/responsive/DA8C91~1-2-xs.PNG 320w ,https://comics.fiulo.com/media/posts/19/responsive/DA8C91~1-2-sm.PNG 480w ,https://comics.fiulo.com/media/posts/19/responsive/DA8C91~1-2-md.PNG 768w ,https://comics.fiulo.com/media/posts/19/responsive/DA8C91~1-2-xl.PNG 1200w ,https://comics.fiulo.com/media/posts/19/responsive/DA8C91~1-2-xxl.PNG 1600w"></figure>
+<p>In the kaleidoscopic world beneath the waves, two young ocean enthusiasts, Jake and Lily, embark on a vibrant voyage through the Coral Kingdom. With bubbling enthusiasm, Jake points excitedly and shouts, "Found Nemo!" just as Lily, with equal glee, exclaims, "And Dory too!" They swim with graceful ease, surrounded by a bustling community of coral dwellers, their colors as diverse as the adventurers' dreams. Each fish, with its unique patterns and hues, is a living gem decorating the ocean's vast canvas. The coral reef, a masterpiece of nature's artistry, stands as an underwater metropolis, teeming with life and whispering the ancient stories of the sea. Jake and Lily, their hearts as buoyant as their diving bubbles, capture this moment in their memories, a snapshot of the time when the ocean's wonders unveiled themselves, a reminder that every ripple on the surface has a world of adventure waiting underneath.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>The Joy of Fresh Cookies</title>
+        <title>Zoran and Mila&#x27;s Quest</title>
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://comics.fiulo.com/the-joy-of-fresh-cookies.html"/>
-        <id>https://comics.fiulo.com/the-joy-of-fresh-cookies.html</id>
-        <media:content url="https://comics.fiulo.com/media/posts/11/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s.png" medium="image" />
+        <link href="https://comics.fiulo.com/zoran-and-milas-quest.html"/>
+        <id>https://comics.fiulo.com/zoran-and-milas-quest.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/20/Dragons-Lair.png" medium="image" />
             <category term="Single Panel Comics"/>
 
-        <updated>2023-12-27T14:46:43+00:00</updated>
-            <summary></summary>
+        <updated>2023-12-29T22:46:54+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://comics.fiulo.com/media/posts/20/Dragons-Lair.png" alt="" />
+                    Atop the verdant cliffs of the Floating Isles, young adventurers Zoran and Mila stand poised for their next grand escapade. Zoran, with the confidence of a seasoned knight, points towards the horizon and declares, "Our next quest!" Beside him, Mila, a mage wise beyond her&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://comics.fiulo.com/media/posts/11/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/11/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/11/responsive/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2-xs.png 320w ,https://comics.fiulo.com/media/posts/11/responsive/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2-sm.png 480w ,https://comics.fiulo.com/media/posts/11/responsive/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2-md.png 768w ,https://comics.fiulo.com/media/posts/11/responsive/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2-xl.png 1200w ,https://comics.fiulo.com/media/posts/11/responsive/DALLE-2023-10-24-22.17.13-Comic-panel-illustration-in-a-cartoony-CalArts-style.-A-female-chef-with-a-chefs-hat-and-apron-excitedly-shows-a-plate-of-freshly-baked-cookies-and-s-2-xxl.png 1600w"></figure>
+                    <p><img src="https://comics.fiulo.com/media/posts/20/Dragons-Lair.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/20/Dragons-Lair-2.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/20/responsive/Dragons-Lair-2-xs.png 320w ,https://comics.fiulo.com/media/posts/20/responsive/Dragons-Lair-2-sm.png 480w ,https://comics.fiulo.com/media/posts/20/responsive/Dragons-Lair-2-md.png 768w ,https://comics.fiulo.com/media/posts/20/responsive/Dragons-Lair-2-xl.png 1200w ,https://comics.fiulo.com/media/posts/20/responsive/Dragons-Lair-2-xxl.png 1600w"></figure>
+<p>Atop the verdant cliffs of the Floating Isles, young adventurers Zoran and Mila stand poised for their next grand escapade. Zoran, with the confidence of a seasoned knight, points towards the horizon and declares, "Our next quest!" Beside him, Mila, a mage wise beyond her years, gazes into the distance, her staff held high as she proclaims, "To the dragon's lair!" Above them, a friendly dragon soars through the sky, its scales shimmering like emeralds in the morning sun. The landscape around them is a tapestry of wonder, with floating islands drifting lazily among the clouds, each one a different realm of mystery and magic. Crystalline structures glint in the daylight, casting prisms across the cascading waterfalls that defy gravity as they flow from one island to another. Zoran and Mila, the heroes of this realm, embark on a journey filled with challenges and enchantments, their hearts brave and their spirits unyielding. The Floating Isles, with their hidden treasures and whispered secrets, await the touch of their valor, as the dragon leads them onward to a destiny written in the stars and sung by the winds of adventure.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>The Quest for the Elusive Songbird</title>
+        <title>Loenik and Jilul&#x27;s First Spectatorship</title>
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://comics.fiulo.com/the-quest-for-the-elusive-songbird.html"/>
-        <id>https://comics.fiulo.com/the-quest-for-the-elusive-songbird.html</id>
-        <media:content url="https://comics.fiulo.com/media/posts/12/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t.png" medium="image" />
+        <link href="https://comics.fiulo.com/loenik-and-jiluls-first-spectatorship.html"/>
+        <id>https://comics.fiulo.com/loenik-and-jiluls-first-spectatorship.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/21/DALLE-2023-10-24-22.22.30-2.png" medium="image" />
             <category term="Single Panel Comics"/>
 
-        <updated>2023-12-28T16:12:46+00:00</updated>
+        <updated>2023-12-29T22:46:46+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://comics.fiulo.com/media/posts/12/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/12/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-xs.png 320w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-sm.png 480w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-md.png 768w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-xl.png 1200w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-xxl.png 1600w"></figure>
+                    <p><img src="https://comics.fiulo.com/media/posts/21/DALLE-2023-10-24-22.22.30-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/21/DALLE-2023-10-24-22.22.30.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/21/responsive/DALLE-2023-10-24-22.22.30-xs.png 320w ,https://comics.fiulo.com/media/posts/21/responsive/DALLE-2023-10-24-22.22.30-sm.png 480w ,https://comics.fiulo.com/media/posts/21/responsive/DALLE-2023-10-24-22.22.30-md.png 768w ,https://comics.fiulo.com/media/posts/21/responsive/DALLE-2023-10-24-22.22.30-xl.png 1200w ,https://comics.fiulo.com/media/posts/21/responsive/DALLE-2023-10-24-22.22.30-xxl.png 1600w"></figure>
             ]]>
         </content>
     </entry>
