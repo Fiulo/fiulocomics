@@ -3,7 +3,7 @@
     <title>Fiulo Comics</title>
     <link href="https://comics.fiulo.com/feed.xml" rel="self" />
     <link href="https://comics.fiulo.com" />
-    <updated>2023-12-27T14:49:08+00:00</updated>
+    <updated>2023-12-29T22:36:41+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -82,6 +82,82 @@
         </content>
     </entry>
     <entry>
+        <title>Alaric&#x27;s Preparation</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://comics.fiulo.com/alarics-preparation.html"/>
+        <id>https://comics.fiulo.com/alarics-preparation.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/15/DALLE-2023-10-24-22.18.36.png" medium="image" />
+            <category term="Single Panel Comics"/>
+
+        <updated>2023-12-29T22:36:41+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://comics.fiulo.com/media/posts/15/DALLE-2023-10-24-22.18.36.png" alt="" />
+                    In the vibrant heart of the old market, under the canvas awnings and flanked by stalls teeming with artisan wares, stands the master blacksmith Brunhilda. Her hands, calloused from years of labor, carefully pass the fruit of her skill—a sword of exquisite craftsmanship—to the waiting&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://comics.fiulo.com/media/posts/15/DALLE-2023-10-24-22.18.36.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/15/DALLE-2023-10-24-22.18.36-2.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/15/responsive/DALLE-2023-10-24-22.18.36-2-xs.png 320w ,https://comics.fiulo.com/media/posts/15/responsive/DALLE-2023-10-24-22.18.36-2-sm.png 480w ,https://comics.fiulo.com/media/posts/15/responsive/DALLE-2023-10-24-22.18.36-2-md.png 768w ,https://comics.fiulo.com/media/posts/15/responsive/DALLE-2023-10-24-22.18.36-2-xl.png 1200w ,https://comics.fiulo.com/media/posts/15/responsive/DALLE-2023-10-24-22.18.36-2-xxl.png 1600w"></figure>
+<div id="description" class="_2xzib">
+<div>
+<div class="legacy-journal _2DahR _3bG54 maturefilter _3if5g">In the vibrant heart of the old market, under the canvas awnings and flanked by stalls teeming with artisan wares, stands the master blacksmith Brunhilda. Her hands, calloused from years of labor, carefully pass the fruit of her skill—a sword of exquisite craftsmanship—to the waiting hands of the knight, Alaric. Encased in his suit of armor, etched with tales of a hundred battles, Alaric raises the sword, its blade a whisper of death, and proclaims, "Perfect for the upcoming battle!" His voice, a deep timbre of courage, carries over the din of the market. Around them, life flows uninterrupted; merchants hawk their goods, jesters dance, and the aroma of hearty stews mingles with the metallic tang of iron. Yet, in this fleeting moment, the bond between Brunhilda and Alaric transcends the ordinary exchange—a blacksmith's legacy melded with a warrior's destiny. The sword, named "Aistulf" - 'swift wolf' in their tongue, now an extension of Alaric's arm, is more than mere steel; it is a vessel of their shared aspirations and a beacon of the triumphs to come.</div>
+</div>
+</div>
+<div class="_3EPQg">
+<div class="_1E0e-">
+<div class="My0gj _19oS_">
+<div>
+<div>
+<div class="_3QlTq"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ailo and Rauni&#x27;s Winter Refuge</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://comics.fiulo.com/ailo-and-raunis-winter-refuge.html"/>
+        <id>https://comics.fiulo.com/ailo-and-raunis-winter-refuge.html</id>
+            <category term="Single Panel Comics"/>
+
+        <updated>2023-12-29T22:36:19+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/16/DALLE-2023-10-24-22.19.02.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/16/responsive/DALLE-2023-10-24-22.19.02-xs.png 320w ,https://comics.fiulo.com/media/posts/16/responsive/DALLE-2023-10-24-22.19.02-sm.png 480w ,https://comics.fiulo.com/media/posts/16/responsive/DALLE-2023-10-24-22.19.02-md.png 768w ,https://comics.fiulo.com/media/posts/16/responsive/DALLE-2023-10-24-22.19.02-xl.png 1200w ,https://comics.fiulo.com/media/posts/16/responsive/DALLE-2023-10-24-22.19.02-xxl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Aylin and Emre&#x27;s Starlit Serenade</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://comics.fiulo.com/aylin-and-emres-starlit-serenade.html"/>
+        <id>https://comics.fiulo.com/aylin-and-emres-starlit-serenade.html</id>
+        <media:content url="https://comics.fiulo.com/media/posts/14/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-2.png" medium="image" />
+            <category term="Single Panel Comics"/>
+
+        <updated>2023-12-29T22:33:48+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://comics.fiulo.com/media/posts/14/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/14/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/14/responsive/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-xs.png 320w ,https://comics.fiulo.com/media/posts/14/responsive/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-sm.png 480w ,https://comics.fiulo.com/media/posts/14/responsive/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-md.png 768w ,https://comics.fiulo.com/media/posts/14/responsive/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-xl.png 1200w ,https://comics.fiulo.com/media/posts/14/responsive/aylin_and_emre_s_starlit_serenade_by_fiulo_dggjyap-xxl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>This Will Change Everything!</title>
         <author>
             <name>Fiulo</name>
@@ -146,82 +222,12 @@
         <media:content url="https://comics.fiulo.com/media/posts/12/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t.png" medium="image" />
             <category term="Single Panel Comics"/>
 
-        <updated>2023-12-27T14:47:57+00:00</updated>
+        <updated>2023-12-28T16:12:46+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://comics.fiulo.com/media/posts/12/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/12/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-xs.png 320w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-sm.png 480w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-md.png 768w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-xl.png 1200w ,https://comics.fiulo.com/media/posts/12/responsive/DALLE-2023-10-24-22.18.16-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-dense-jungle-a-girl-with-a-camera-excitedly-says-Did-you-hear-t-2-xxl.png 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Neon Skies Challenge</title>
-        <author>
-            <name>Fiulo</name>
-        </author>
-        <link href="https://comics.fiulo.com/neon-skies-challenge.html"/>
-        <id>https://comics.fiulo.com/neon-skies-challenge.html</id>
-        <media:content url="https://comics.fiulo.com/media/posts/13/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance.png" medium="image" />
-            <category term="Single Panel Comics"/>
-
-        <updated>2023-12-27T14:48:54+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://comics.fiulo.com/media/posts/13/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/13/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/13/responsive/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2-xs.png 320w ,https://comics.fiulo.com/media/posts/13/responsive/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2-sm.png 480w ,https://comics.fiulo.com/media/posts/13/responsive/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2-md.png 768w ,https://comics.fiulo.com/media/posts/13/responsive/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2-xl.png 1200w ,https://comics.fiulo.com/media/posts/13/responsive/DALLE-2023-10-24-22.18.26-Comic-panel-illustration-in-a-cartoony-CalArts-style-filling-the-entire-space.-In-a-futuristic-city-with-floating-cars-a-girl-with-cybernetic-enhance-2-xxl.png 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Bunny Brigade - Issue 1</title>
-        <author>
-            <name>Fiulo</name>
-        </author>
-        <link href="https://comics.fiulo.com/the-bunny-brigade-issue-1.html"/>
-        <id>https://comics.fiulo.com/the-bunny-brigade-issue-1.html</id>
-        <media:content url="https://comics.fiulo.com/media/posts/2/Page_1-2.jpg" medium="image" />
-            <category term="Full Comics"/>
-
-        <updated>2023-12-26T11:01:06+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://comics.fiulo.com/media/posts/2/Page_1-2.jpg" class="type:primaryImage" alt="" /></p>
-                <div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/2/Page_1.jpg" style="padding: 1em 0; text-align: center;"><figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/2/Page_1.jpg" alt="" width="2479" height="3508" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/2/responsive/Page_1-xs.jpg 320w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-md.jpg 768w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/2/responsive/Page_1-xxl.jpg 1600w"></figure></a></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Star Wanderers Issue 1</title>
-        <author>
-            <name>Fiulo</name>
-        </author>
-        <link href="https://comics.fiulo.com/the-star-wanderers-issue-1.html"/>
-        <id>https://comics.fiulo.com/the-star-wanderers-issue-1.html</id>
-        <media:content url="https://comics.fiulo.com/media/posts/3/Page_1-2.jpg" medium="image" />
-            <category term="Full Comics"/>
-
-        <updated>2023-12-26T11:00:49+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://comics.fiulo.com/media/posts/3/Page_1-2.jpg" alt="" />
-                    Page 1: Page 2: Page 3:
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://comics.fiulo.com/media/posts/3/Page_1-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Page 1:</p>
-<figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/3/Page_1.jpg" alt="" width="1131" height="1600" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_1-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-xxl.jpg 1600w"></figure>
-<div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/3/Page_1-1.jpg" style="padding: 1em 0; text-align: center;"><img loading="lazy" src="https://comics.fiulo.com/media/posts/3/Page_1-1.jpg" alt="" border="0" data-original-height="3508" data-original-width="2479" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_1-1-xxl.jpg 1600w"></a></div>
-<p>Page 2:</p>
-<p> </p>
-<div style="clear: both;"><a href="https://comics.fiulo.com/media/posts/3/Page_2.jpg" style="padding: 1em 0; text-align: center;"><img loading="lazy" src="https://comics.fiulo.com/media/posts/3/Page_2.jpg" alt="" border="0" data-original-height="3508" data-original-width="2479" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_2-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_2-xxl.jpg 1600w"></a></div>
-<p>Page 3:</p>
-<figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/3/Page_3.jpg" alt="" width="1131" height="1600" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/3/responsive/Page_3-xs.jpg 320w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-sm.jpg 480w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-md.jpg 768w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xl.jpg 1200w ,https://comics.fiulo.com/media/posts/3/responsive/Page_3-xxl.jpg 1600w"></figure>
-<div style="clear: both;"> </div>
             ]]>
         </content>
     </entry>
