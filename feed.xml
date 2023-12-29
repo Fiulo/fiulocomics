@@ -3,7 +3,7 @@
     <title>Fiulo Comics</title>
     <link href="https://comics.fiulo.com/feed.xml" rel="self" />
     <link href="https://comics.fiulo.com" />
-    <updated>2023-12-29T23:17:53+00:00</updated>
+    <updated>2023-12-29T23:22:29+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -69,18 +69,18 @@
         <media:content url="https://comics.fiulo.com/media/posts/33/elf_and_tiefling-2.png" medium="image" />
             <category term="Single Panel Comics"/>
 
-        <updated>2023-12-29T23:12:30+00:00</updated>
+        <updated>2023-12-29T23:22:29+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://comics.fiulo.com/media/posts/33/elf_and_tiefling-2.png" alt="" />
-                    Starry-eyed and full of wonder, our spellbinding tiefling and her mystified elven companion are ready to discover the nocturnal secrets of the realm. What tales of magic and mischief await them?
+                    Starry-eyed and full of wonder, our spellbinding tiefling and her mystified elven companion are ready to discover the nocturnal secrets of the realm. What tales of magic and mischief await them? 🌟😈💫
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://comics.fiulo.com/media/posts/33/elf_and_tiefling-2.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://comics.fiulo.com/media/posts/33/elf_and_tiefling.png" alt="" width="1024" height="1024" sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://comics.fiulo.com/media/posts/33/responsive/elf_and_tiefling-xs.png 320w ,https://comics.fiulo.com/media/posts/33/responsive/elf_and_tiefling-sm.png 480w ,https://comics.fiulo.com/media/posts/33/responsive/elf_and_tiefling-md.png 768w ,https://comics.fiulo.com/media/posts/33/responsive/elf_and_tiefling-xl.png 1200w ,https://comics.fiulo.com/media/posts/33/responsive/elf_and_tiefling-xxl.png 1600w"></figure>
-<figure class="r-4qtqp9 r-dflpy8 r-zw8f10 r-sjv1od r-10akycc r-h9hxbl"><span class="css-1qaijid r-bcqeeo r-qvutc0 r-poiln3">Starry-eyed and full of wonder, our spellbinding tiefling and her mystified elven companion are ready to discover the nocturnal secrets of the realm. What tales of magic and mischief await them? </span><img  title="Glowing star" draggable="false" src="https://abs-0.twimg.com/emoji/v2/svg/1f31f.svg" alt="🌟" data-is-external-image="true"></figure><figure class="r-4qtqp9 r-dflpy8 r-zw8f10 r-sjv1od r-10akycc r-h9hxbl"><img loading="lazy"  title="Smiling face with horns" draggable="false" src="https://abs-0.twimg.com/emoji/v2/svg/1f608.svg" alt="😈" data-is-external-image="true"></figure><figure class="r-4qtqp9 r-dflpy8 r-zw8f10 r-sjv1od r-10akycc r-h9hxbl"><img loading="lazy"  title="Dizzy symbol" draggable="false" src="https://abs-0.twimg.com/emoji/v2/svg/1f4ab.svg" alt="💫" data-is-external-image="true"></figure>
+<p><span class="css-1qaijid r-bcqeeo r-qvutc0 r-poiln3">Starry-eyed and full of wonder, our spellbinding tiefling and her mystified elven companion are ready to discover the nocturnal secrets of the realm. What tales of magic and mischief await them? 🌟😈💫<br></span></p>
             ]]>
         </content>
     </entry>
